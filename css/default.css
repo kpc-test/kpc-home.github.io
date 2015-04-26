@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Koruri-Regular';
+    src: url('./fonts/Koruri-Regular.eot');
+  	src: url('./fonts/Koruri-Regular.eot?iefix') format('eot'),
+    url(./fonts/Koruri-Regular.woff) format('woff'),
+    url('./fonts/Koruri-Regular.ttf') format('truetype'),
+}
+
+body {
+    font-family: 'Koruri-Regular';
+    font-family: 'Open Sans', sans-serif;
+}
